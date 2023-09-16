@@ -40,6 +40,7 @@ export const projectsData = [
       "Full E Commerce shop Websiteو You can buy products and add it to Cart and sign in and logout with Firebase authentication. ",
     tags: ["React", "FireBase", "Tailwind", "straipe", "And Others"],
     imageUrl: corpcommentImg,
+    link: "https://github.com/MuhammadAli34/Fashion-Shop",
   },
 
   {
@@ -48,6 +49,7 @@ export const projectsData = [
       "Full realtime chatapp with mern stack mongoDb,express,reactjs,node js and socket.io and a lot of other technology.",
     tags: ["MERN-STACK", "styled-components", "socket.io"],
     imageUrl: third,
+     link: "https://github.com/MuhammadAli34/Mern-Chat-App",
   },
   {
     title: "ToDoList",
@@ -55,6 +57,7 @@ export const projectsData = [
       "beautiful ToDoList, designed with a React js, that allows adding, removing, modifying, or Underline finshed Tasks.",
     tags: ["React", "Tailwind"],
     imageUrl: rmtdevImg,
+     link: "https://github.com/MuhammadAli34/React-Todo-List-App",
   },
 ] as const;
 
