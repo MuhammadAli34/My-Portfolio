@@ -1,8 +1,8 @@
-import About from "@/components/about";
+import About from "../components/About";
 import Contact from "@/components/contact";
 
-import Intro from "@/components/intro";
-import Projects from "@/components/projects";
+import Intro from "../components/Intro";
+import Projects from "../components/Projects";
 import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 
