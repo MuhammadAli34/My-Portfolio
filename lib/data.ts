@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/First Project.png";
-import rmtdevImg from "@/public/second project.png";
+import rmtdevImg from "@/public/untitled.JPG";
 import third from "@/public/third.png";
 
 export const links = [
