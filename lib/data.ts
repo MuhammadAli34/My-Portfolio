@@ -49,12 +49,12 @@ export const projectsData = [
      link: "https://github.com/MuhammadAli34/Mern-Chat-App",
   },
   {
-    title: "ToDoList",
+    title: "E-commerce",
     description:
-      "beautiful ToDoList, designed with a React js, that allows adding, removing, modifying, or Underline finshed Tasks.",
-    tags: ["React", "Tailwind"],
+      "Full E Commerce shop Website.",
+    tags: ["React"],
     imageUrl: rmtdevImg,
-     link: "https://github.com/MuhammadAli34/React-Todo-List-App",
+     link: "https://github.com/MuhammadAli34/E-commerce",
   },
 ] as const;
 
